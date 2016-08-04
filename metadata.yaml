@@ -1,0 +1,44 @@
+_repo: Recollections-and-Letters-of-General-Robert-E.-Lee_2323
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Lee, Robert E. (Robert Edward)
+    alias: Lee, Robert Edward
+    birthdate: 1807
+    deathdate: 1870
+    gutenberg_agent_id: '38751'
+    url: http://www.gutenberg.org/2009/agents/38751
+    wikipedia: http://en.wikipedia.org/wiki/Robert_E._Lee
+creator:
+  author:
+    agent_name: Lee, Robert E. (Robert Edward)
+    alias: Lee, R. E. (Robert Edward)
+    birthdate: 1843
+    deathdate: 1914
+    gutenberg_agent_id: '870'
+    url: http://www.gutenberg.org/2009/agents/870
+    wikipedia: http://en.wikipedia.org/wiki/Robert_E._Lee,_Jr.
+description: This book shows all the facets of General Lee through his correspondance
+  and through the warm and revealing insight supplied by his son. A very whole and
+  rewarding picture of one of the South's greatest sons and heroes.
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2000-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Generals -- Confederate States of America -- Biography'
+- !lcsh 'Lee, Robert E. (Robert Edward), 1843-1914'
+- !lcsh 'Confederate States of America. Army -- Biography'
+- !lcsh 'Lee family'
+- !lcsh 'Generals -- United States -- Biography'
+- !lcc 'E456'
+- !lcsh 'Lee, Robert E. (Robert Edward), 1807-1870'
+- !lcsh 'Lee, Robert E. (Robert Edward), 1807-1870 -- Correspondence'
+- GITenberg
+title: Recollections and Letters of General Robert E. Lee
+url: http://www.gutenberg.org/ebooks/2323
