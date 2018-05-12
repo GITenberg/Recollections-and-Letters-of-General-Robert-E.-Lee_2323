@@ -1,5 +1,5 @@
 _repo: Recollections-and-Letters-of-General-Robert-E.-Lee_2323
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Lee, Robert E. (Robert Edward)
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '38751'
     url: http://www.gutenberg.org/2009/agents/38751
     wikipedia: http://en.wikipedia.org/wiki/Robert_E._Lee
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lee, Robert E. (Robert Edward)
@@ -21,6 +24,8 @@ creator:
 description: This book shows all the facets of General Lee through his correspondance
   and through the warm and revealing insight supplied by his son. A very whole and
   rewarding picture of one of the South's greatest sons and heroes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2323#Recollections-and-Letters-of-General-Robert-E.-Lee
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2000-09-01'
 gutenberg_type: Text
